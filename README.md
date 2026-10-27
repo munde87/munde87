@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Shubham Munde!<br><br>💻 Computer Engineering Student | Full Stack Developer | Problem Solver<br><br>🚀 I build modern web applications and explore AI-powered solutions that solve real-world problems.<br><br>🛠️ **Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB, Java & Git.<br><br>🤖 Exploring AI, RAG Systems, and intelligent applications.<br><br>🧠 Practicing Data Structures & Algorithms to sharpen my problem-solving skills.<br><br>🌱 Always learning, building, and turning ideas into reality.<br><br>🎯 **My Philosophy:** Learn continuously. Build fearlessly. Improve relentlessly.<br><br>📌 Open to internships, collaborations, and exciting tech opportunities.
+![Uploading Modern Dark Developer About Me Section.png…]()
+
 
 
 ## 🌐 Socials:
