@@ -1,5 +1,15 @@
-![Uploading Modern Dark Developer About Me Section.png…]()
+## About Me
 
+Hey, I'm **Shubham Munde!**
+
+- **Student:** Computer Engineering Student | Full Stack Developer | Problem Solver
+- **Passion:** I build modern web applications and explore AI-powered solutions that solve real-world problems.
+- **Tech Stack:** React.js, JavaScript, Node.js, Express.js, MongoDB, Java & Git.
+- **Exploring:** Artificial Intelligence, RAG Systems, and intelligent applications.
+- **Practice:** Practicing Data Structures & Algorithms to sharpen my problem-solving skills.
+- **Growth:** Always learning, building, and turning ideas into reality.
+- **Philosophy:** Learn continuously. Build fearlessly. Improve relentlessly.
+- **Opportunities:** Open to internships, collaborations, and exciting tech opportunities.
 
 
 ## 🌐 Socials:
